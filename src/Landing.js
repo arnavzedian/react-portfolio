@@ -202,7 +202,7 @@ export default function Landing() {
           </Name>
         </NameAndImage>
 
-        <Intro>Freelance . Full Stack Dev . 3D Artist . Game Dev</Intro>
+        <Intro>Freelancer . Full Stack Dev . 3D Artist . Game Dev</Intro>
         <IntroDetailed>
           Hi! I started freelancing in 2020 during lockdown, since then I have
           learned about a lot of technologies like React.js, Laravel, Next.js,
