@@ -216,10 +216,10 @@ export default function Landing() {
         </IntroDetailed>
 
         <SocialLinks>
-          <Socail target="_blank" href="https://www.instagram.com/arnavzedian/">
+          <Socail target="_blank" href="https://www.instagram.com/arnavzek/">
             <AiOutlineInstagram />
           </Socail>
-          <Socail target="_blank" href="https://github.com/arnavzedian">
+          <Socail target="_blank" href="https://github.com/arnavzek">
             <FiGithub />
           </Socail>
           <Socail
