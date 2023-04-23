@@ -4,7 +4,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 import { SiUpwork } from "react-icons/si";
 import { FiGithub } from "react-icons/fi";
 
-let theStory = `When I was a kid, like 13, my childhood was pretty boring except computer lab although we had to learn learn turtle on a black and white computer. At the time the coolest thing was changing wallpapers. <br/> <br/>
+let theStory = `When I was a kid, like 13, my childhood was pretty boring, except computer lab although we had to learn turtle on a black and white computer. At the time the coolest thing was changing wallpapers. <br/> <br/>
 
 When I would get home, I would just cycle round and round near my house because in my neighborhood there was no one who was same age as me. You can say, you had a cycle! You could have just gone to your friends house? Well, In India and specially in my city, roads are almost lawless, anyone can get a license. So, I was not allowed to cycle on the road. What about your school? You must have had friends there? Yes! I did, I was friends with this kid “Gyanendra” but the school we were in didn't have higher classes after 4th grade. So, we lost touch and I don’t know where he is right now. <br/> <br/>
 
