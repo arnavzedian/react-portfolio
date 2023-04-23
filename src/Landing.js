@@ -26,7 +26,7 @@ When I was in 12th I started freelancing, I ended up gaining a lot of knowledge 
 
 I joined LPU in summer of 2020. At the end of the semester, I realized I have mistaken semester fees with annual fees but rather than telling Papa, I tried earning that 80K rupees by my self, and to my surprise I succeeded. Well not technically, at the time it used to take 1 week for money to be released from upwork. So, I had to borrow 30K from my mother which I returned later. I also paid the hosted fees for the the 3rd year.  <br/> <br/>
 
-During this period I learned about react, even tried creating my own react library, started work on a open source social network and created a few games.   `;
+During this period, I learned about react (even tried creating my own react library), learned flutter, laravel & started work on a open source social network and created a few games.   `;
 
 const Container = styled.div`
   font-size: 21px;
