@@ -1,30 +1,30 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { SiUpwork } from "react-icons/si";
 import { FiGithub } from "react-icons/fi";
 
-let theStory = `When I was a kid, like 13, my childhood was pretty boring. Go to school, learn turtle on a black and white computer, at the time the coolest thing was changing wallpapers. <br/> <br/>
+let theStory = `When I was a kid, like 13, my childhood was pretty boring except computer lab although we had to learn learn turtle on a black and white computer. At the time the coolest thing was changing wallpapers. <br/> <br/>
 
-When I would get home I would just cycle round and round near my house because in my neighborhood there was no one who was same age as me. You can say, you had a cycle, you could have gone to your friends house? Well, In India and specially in my city, roads are almost lawless, anyone can get a license. So, I was not allowed to cycle on the road. What about your school? You must have had friends there? Yes! I did, I was friends with this kid “Gyanendra” but the school we were in only had 4 grade so we lost touch and I don’t know where he is right now. <br/> <br/>
+When I would get home, I would just cycle round and round near my house because in my neighborhood there was no one who was same age as me. You can say, you had a cycle! You could have just gone to your friends house? Well, In India and specially in my city, roads are almost lawless, anyone can get a license. So, I was not allowed to cycle on the road. What about your school? You must have had friends there? Yes! I did, I was friends with this kid “Gyanendra” but the school we were in didn't have higher classes after 4th grade. So, we lost touch and I don’t know where he is right now. <br/> <br/>
 
 Also, I was a pretty average kid, so almost everyone except my mother and grandpa looked down at me. I really love you grandpa. <br/> <br/>
 
-There must be something cool about your childhood? yeah! Once every few months, I would meet my cousin, we were best buddies, his family was very well-off. So, he had PSP, computers, laptops, and even a bike simulator. He got me interested in technology, I don’t think I would be pursuing technology If I wouldn’t have met him. I say this because, one day he showed me a small game he made using Powerpoint and I was like you can make games using Powerpoint, I was blow away and after a lot of begging he taught me how to do it. <br/> <br/>
+There must be something cool about your childhood? Yeah! Once every few months, I would meet my cousin, we were best buddies, his family was very well-off. So, he had PSP, computers, laptops, and even a bike simulator. He got me interested in technology, I don’t think I would be pursuing technology, If I wouldn’t have met him. I say this because, one day he showed me a small game he made using Powerpoint and I was like you can make games using Powerpoint, I was blow away and after a lot of begging he taught me how to do it. <br/> <br/>
 
-When I went back home I crammed my Grade 7 computer science book and I got quite good at the subject, I really liked this feeling of being good at something and then I learned how to write .bat program, I would make this really cool martrix effect and loved doing that. By the time I was in grade 8 I had crammed Computer science book of Grade 10. Other than the new found knowledge of computer it also improved my English. I remember reading 3 computer science books in a week.<br/> <br/> 
+When I went back home, I crammed my Grade 7 computer science book and I got quite good at the subject, I really liked this feeling of being good at something and then I learned how to write .bat program, I would make this really cool martrix effect and loved doing other quirky things with it. By the time I was in grade 8, I had crammed Computer science book upto Grade 10. Other than the new found knowledge of computer, it also improved my English. I remember reading 3 computer science books in a week.<br/> <br/> 
 
-When I got got into grade 8 my school changed again because the school I was in didn’t have higher classes. The new school was DAV, there I met two of the most amazing and talented friends, Saurav and Ranjan. Ranjan was a game dev rookie and the class topper while Saurav was a rookie 3D artist and physics topper. Saurav and I had a love and hate relationship, we have fought on everything from the the weight of photon to why there isn’t an i6 processor. So, I used to annoy him a lot and he was also good at being mean and annoying. <br/> <br/>
+When I got into grade 8, my school changed again because the school I was in didn’t have higher classes. The new school was DAV, there I met two of the most amazing and talented friends, mainly Saurav and Ranjan. Ranjan was a game dev rookie and the class topper while Saurav was a rookie 3D artist and physics topper. Saurav and I had a love and hate relationship, we have fought on everything from the the weight of photon to why there isn’t an i6 processor. So, I used to annoy him a lot and he was also good at being mean and annoying. <br/> <br/>
 
-Ranjan was very different from Saurav, rather than fighting, he would correct me without making me look like a fool, his words were calculated yet humble. So we ended up boding really well. <br/> <br/>
+Ranjan was very different from Saurav, rather than fighting, he would correct me without making me look like a fool, his words were calculated yet humble. So we ended up bonding really well. <br/> <br/>
 
-In the coming years I and saurav worked for a game company as a 3D artist we made 4K **ruppes** a month while in 10th grade which was pretty cool at the time. <br/> <br/>
+In the coming years I and saurav worked for a game company as a 3D artist we made 4K **ruppes** a month while in 10th, grade which was pretty cool at the time. <br/> <br/>
 
-When Saurav and I was working on a small game he would say “You will never be able to make this” while pointing at a deformed face mesh in blender and he would say “We would build the game and not let you control anything” maybe he was just kidding, I never understood his humor he taught me so many things that I would fall short of admitting plus he was far more talented and hard working than me. <br/> <br/>
+When Saurav and I were working on a small game he would say “You will never be able to make this” while pointing at a deformed face mesh in blender and he would say “We would build the game and not let you control anything”, I never understood his humor. He taught me so many things that I would fall short of admitting plus, he was far more talented and hard working than me. <br/> <br/>
 
-When I was in 12th I started freelancing, I ended up gaining a lot of knowledge but my grades tanked (I was already low) but I got 87 in physics so that’s the silver lining. <br/> <br/>
+When I was in 12th I started freelancing, I ended up gaining a lot of knowledge but my grades tanked (It was already low) but I got 87/100 in physics. So, that’s the silver lining. <br/> <br/>
 
-I joined LPU in summer of 2020. at the end of the semester I realized I have mistaken semester fees annual fees but rather than telling papa I trying earning that 80K rupees my self, and to my surprise I succeeded. Well not technically, at the time it used to take 1 week for money to be released from upwork. So, I had to borrow 30K from my mother which I returned later. I also paid the hosted fees for the the 3rd year.  <br/> <br/>
+I joined LPU in summer of 2020. At the end of the semester, I realized I have mistaken semester fees with annual fees but rather than telling Papa, I tried earning that 80K rupees by my self, and to my surprise I succeeded. Well not technically, at the time it used to take 1 week for money to be released from upwork. So, I had to borrow 30K from my mother which I returned later. I also paid the hosted fees for the the 3rd year.  <br/> <br/>
 
 During this period I learned about react, even tried creating my own react library, started work on a open source social network and created a few games.   `;
 
@@ -190,6 +190,12 @@ const ReadMoreButton = styled.button`
 
 export default function Landing() {
   const [readMore, setReadModeStatus] = useState(false);
+
+  useEffect(() => {
+    if (window.location.href.indexOf("paratimevideo") !== -1) {
+      window.location.href = "https://www.youtube.com/watch?v=G-O-KQyFiJo";
+    }
+  }, []);
 
   return (
     <Container>
