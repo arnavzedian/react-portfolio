@@ -18,11 +18,11 @@ When I got into grade 8, my school changed again because the school I was in did
 
 Ranjan was very different from Saurav, rather than fighting, he would correct me without making me look like a fool, his words were calculated yet humble. So we ended up bonding really well. <br/> <br/>
 
-In the coming years I and saurav worked for a game company as a 3D artist we made 4K **ruppes** a month while in 10th, grade which was pretty cool at the time. <br/> <br/>
+In the coming years I and saurav worked for a game company as a 3D artist. We made around 4K **ruppes** a month while in 10th grade which was pretty cool at the time. <br/> <br/>
 
 When Saurav and I were working on a small game he would say “You will never be able to make this” while pointing at a deformed face mesh in blender and he would say “We would build the game and not let you control anything”, I never understood his humor. He taught me so many things that I would fall short of admitting plus, he was far more talented and hard working than me. <br/> <br/>
 
-When I was in 12th I started freelancing, I ended up gaining a lot of knowledge but my grades tanked (It was already low) but I got 87/100 in physics. So, that’s the silver lining. <br/> <br/>
+When I was in 12th, I started freelancing, I ended up gaining a lot of knowledge but my grades tanked (It was already low) but I got 87/100 in physics. So, that’s the silver lining. <br/> <br/>
 
 I joined LPU in summer of 2020. At the end of the semester, I realized I have mistaken semester fees with annual fees but rather than telling Papa, I tried earning that 80K rupees by my self, and to my surprise I succeeded. Well not technically, at the time it used to take 1 week for money to be released from upwork. So, I had to borrow 30K from my mother which I returned later. I also paid the hosted fees for the the 3rd year.  <br/> <br/>
 
