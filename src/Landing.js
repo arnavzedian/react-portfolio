@@ -210,12 +210,10 @@ export default function Landing() {
 
         <Intro>Freelancer . Full Stack Dev . 3D Artist . Game Dev</Intro>
         <IntroDetailed>
-          Hi! I started freelancing in 2020 during lockdown, since then I have
-          learned about a lot of technologies like React.js, Laravel, Next.js,
-          MongoDB, unity & Blender. I have worked with people across the globe,
-          mainly Brazil & USA. I have worked with big projects with more than
-          500 files and I have also created big projects from scratch. You can
-          contact me on{" "}
+          Hi! I started freelancing in 2020 during lockdown. Since then, I have
+          learned a lot of technologies like React.js, Laravel, Next.js,
+          MongoDB, Unity & Blender. I have worked with people across the globe,
+          mainly Brazil & USA. You can contact me on{" "}
           <u>
             <i> arnav010singh@gmail.com</i>
           </u>
@@ -242,27 +240,30 @@ export default function Landing() {
 
         <ProjectList>
           <Gradient>
-            <Project target="_blank" href="https://www.upon.one">
-              <ProjectName>upon.one</ProjectName>
+            <Project target="_blank" href="https://www.paratime.app">
+              <ProjectName>paratime</ProjectName>
+
+              <ProjectDetail>A Social Timer Tracker For VsCode</ProjectDetail>
+            </Project>
+          </Gradient>
+
+          <Gradient>
+            <Project target="_blank" href="https://www.cactusdiary.com">
+              <ProjectName>Cactus Diary</ProjectName>
 
               <ProjectDetail>
-                An open source social network for professionals with a built in
-                site builder
+                A Diary and Notes Application With AES Encryption
               </ProjectDetail>
             </Project>
           </Gradient>
 
           <Gradient>
-            <Project
-              target="_blank"
-              href="https://play.google.com/store/apps/details?id=com.clawon.riftoff"
-            >
-              <ProjectName>Finn: The eagle without wings</ProjectName>
+            <Project target="_blank" href="https://www.parafocus.upon.one">
+              <ProjectName>Parafocus</ProjectName>
 
               <ProjectDetail>
-                A platformer game about a eagle that is born without wings, he
-                is mocked all his childhood so he build himself a hoverbike and
-                goes off on an adventure
+                Nested To Do + Habit Tracker + Time Tracker + Binaural Music
+                Player
               </ProjectDetail>
             </Project>
           </Gradient>
