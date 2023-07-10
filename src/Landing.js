@@ -243,7 +243,7 @@ export default function Landing() {
             <Project target="_blank" href="https://www.paratime.app">
               <ProjectName>paratime</ProjectName>
 
-              <ProjectDetail>A Social Timer Tracker For VsCode</ProjectDetail>
+              <ProjectDetail>A Social Time Tracker For VsCode</ProjectDetail>
             </Project>
           </Gradient>
 
