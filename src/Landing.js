@@ -258,7 +258,7 @@ export default function Landing() {
           </Gradient>
 
           <Gradient>
-            <Project target="_blank" href="https://www.parafocus.upon.one">
+            <Project target="_blank" href="https://parafocus.upon.one">
               <ProjectName>Parafocus</ProjectName>
 
               <ProjectDetail>
