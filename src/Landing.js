@@ -243,27 +243,31 @@ export default function Landing() {
             <Project target="_blank" href="https://www.paratime.app">
               <ProjectName>paratime</ProjectName>
 
-              <ProjectDetail>A Social Time Tracker For VsCode</ProjectDetail>
-            </Project>
-          </Gradient>
-
-          <Gradient>
-            <Project target="_blank" href="https://www.cactusdiary.com">
-              <ProjectName>Cactus Diary</ProjectName>
-
               <ProjectDetail>
-                A Diary and Notes Application With AES Encryption
+                A Social Time Tracker For VsCode. Find out how many hours you
+                have coded vs your friends on any day.
               </ProjectDetail>
             </Project>
           </Gradient>
 
           <Gradient>
-            <Project target="_blank" href="https://parafocus.upon.one">
-              <ProjectName>Parafocus</ProjectName>
+            <Project target="_blank" href="https://holda.upon.one">
+              <ProjectName>Holda</ProjectName>
 
               <ProjectDetail>
-                Nested To Do + Habit Tracker + Time Tracker + Binaural Music
-                Player
+                Minimal, all in one productivity tool with todos, sub-todos,
+                notes, encrypted diary, pomodoro, pomodoro stat & ambient music.
+              </ProjectDetail>
+            </Project>
+          </Gradient>
+
+          <Gradient>
+            <Project target="_blank" href="https://inwire.app">
+              <ProjectName>Inwire</ProjectName>
+
+              <ProjectDetail>
+                Freelance platform with near 0% commission and social network
+                for creatives.
               </ProjectDetail>
             </Project>
           </Gradient>
