@@ -251,23 +251,23 @@ export default function Landing() {
           </Gradient>
 
           <Gradient>
-            <Project target="_blank" href="https://holda.upon.one">
-              <ProjectName>Holda</ProjectName>
+            <Project target="_blank" href="https://shortbooks.app">
+              <ProjectName>Shortbooks</ProjectName>
 
               <ProjectDetail>
-                Minimal, all in one productivity tool with todos, sub-todos,
-                notes, encrypted diary, pomodoro, pomodoro stat & ambient music.
+                Library of shortbooks that allows you to learn new skills and
+                gain new knowledge in fast and structured way.
               </ProjectDetail>
             </Project>
           </Gradient>
 
           <Gradient>
-            <Project target="_blank" href="https://inwire.app">
-              <ProjectName>Inwire</ProjectName>
+            <Project target="_blank" href="https://cottonchat.com">
+              <ProjectName>Cotton Chat</ProjectName>
 
               <ProjectDetail>
-                Freelance platform with near 0% commission and social network
-                for creatives.
+                A chat application that allows you to meet new people, find love
+                and talk your heart with the anonymous feature.
               </ProjectDetail>
             </Project>
           </Gradient>
